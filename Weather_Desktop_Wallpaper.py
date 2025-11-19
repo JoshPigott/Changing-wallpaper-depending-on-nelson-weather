@@ -110,24 +110,3 @@ def main():
 main()
 
 
-"""
-#'lat':"-41.2710849", 'lon':"173.2836756"
-"""
-
-
-
-
-
-
-""""
-Steps 
-1. I need to do are get the weather using an API
-2. I need to link the weather to an ouput like rain x dsplay
-3. I need to make the UI the wall paper change
-"""
-
-"""
-I will know when the project is done becasue the wall paper will change depending on the weather and I also can change the location from
-changing the code.
-If I have spent less than a week on the project and I feel I still get a lot of learing out this I can do this make it run on schedule
-"""
