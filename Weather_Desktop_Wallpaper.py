@@ -7,7 +7,6 @@ import os
 COLD_THRESHOLD = 12
 HOT_THRESHOLD = 24
 API_KEY = os.getenv("OPEN_WAETHER_API_KEY")
-print(API_KEY, "Chicken", "what")
 wallpaper_folder = r"C:\Users\joshu\OneDrive\Desktop\Fun Builds\Weather desktop wallpaper"
  
 
